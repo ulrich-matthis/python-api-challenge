@@ -1,3 +1,5 @@
+#Note: world map visualizations are not loading into github; however, they are functional within VSCode and jupyter notebook
+
 # python-api-challenge
 
 For this weeks challenge there were two objectives to be completed using two different API keys. The first task can be viewed within
